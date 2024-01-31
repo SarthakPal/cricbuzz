@@ -1,5 +1,6 @@
 package com.example.cricbuzz.model.match;
 
+import com.example.cricbuzz.model.people.Player;
 import lombok.Data;
 
 @Data
